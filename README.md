@@ -1,4 +1,4 @@
-## Привет, меня зовут Валя ✨
+# Привет, меня зовут Валя ✨
 
 <!--
 **Valuxalo/Valuxalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Здесь можно увидеть мои проекты по построению моделей, исследованию различных техник при построении моделей и учебные проекты.
 Также у меня есть мои личные проекты по Python, в частности реализация Телеграм-ботов. 
 
-# Hard-skills
+## Hard-skills
 
 - Python
 - Docker
