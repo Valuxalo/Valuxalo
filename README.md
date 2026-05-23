@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - Linux
 - Bash
 - SQL
-- No-SQL
+- NoSQL
 - ML
 
 ## О себе
